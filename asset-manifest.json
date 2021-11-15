@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/testes-ab-google-optimize/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/testes-ab-google-optimize/static/js/main.4ca05ce6.chunk.js",
+    "main.js.map": "/testes-ab-google-optimize/static/js/main.4ca05ce6.chunk.js.map",
+    "runtime-main.js": "/testes-ab-google-optimize/static/js/runtime-main.d598d844.js",
+    "runtime-main.js.map": "/testes-ab-google-optimize/static/js/runtime-main.d598d844.js.map",
+    "static/js/2.980b54db.chunk.js": "/testes-ab-google-optimize/static/js/2.980b54db.chunk.js",
+    "static/js/2.980b54db.chunk.js.map": "/testes-ab-google-optimize/static/js/2.980b54db.chunk.js.map",
+    "static/js/3.389c18e0.chunk.js": "/testes-ab-google-optimize/static/js/3.389c18e0.chunk.js",
+    "static/js/3.389c18e0.chunk.js.map": "/testes-ab-google-optimize/static/js/3.389c18e0.chunk.js.map",
+    "index.html": "/testes-ab-google-optimize/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/testes-ab-google-optimize/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.980b54db.chunk.js.LICENSE.txt": "/testes-ab-google-optimize/static/js/2.980b54db.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/testes-ab-google-optimize/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d598d844.js",
+    "static/js/2.980b54db.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.4ca05ce6.chunk.js"
+  ]
+}
