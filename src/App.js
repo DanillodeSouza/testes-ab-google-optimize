@@ -9,11 +9,17 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <a
+        <a onClick={(e) => {
+            e.preventDefault()
+            // eslint-disable-next-line no-undef
+            gtag('event', 'click', {
+              'event_category': 'home',
+              'event_label': 'Link to React Website'
+            })
+            window.location.href = 'https://reactjs.org/'
+        }}
           className="App-link"
           href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
         >
           Learn React
         </a>
